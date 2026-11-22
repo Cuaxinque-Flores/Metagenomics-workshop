@@ -1,0 +1,6 @@
+strain,CV_mean_all_%,CV_mean_after_6h_%,CV_at_24h_%,cols1-6_vs_7-12_mean_abs_diff_OD,min_pairwise_pearson_r
+Kosakonia,3.395,1.994,1.937,0.015,0.953
+Phytobacter,16.361,18.219,20.713,0.089,0.596
+Azospirillum,5.991,6.409,8.917,0.015,0.949
+Paenibacillus,1.884,1.616,2.664,0.004,0.998
+Pseudomonas,3.228,3.073,2.363,0.012,0.962
